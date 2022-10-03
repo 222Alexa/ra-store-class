@@ -67,3 +67,9 @@ return (
 Реализуйте полноценный проект с помощью create-react-app, не забудьте задействовать prop-types (для item можете использовать либо тип `object`, либо вынести item в класс и использовать `instanceOf`.
 
 Используйте расположенный в данном каталоге css для стилизации.
+
+---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/xeks8xpwrf620vcl/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ra-store-class/branch/main)
+
+[GH-Pages](https://222alexa.github.io/ra-store-class/)
