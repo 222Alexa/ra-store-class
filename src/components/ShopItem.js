@@ -2,9 +2,6 @@ import { Component } from "react";
 import PropTypes from "prop-types";
 
 export default class ShopItem extends Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
     const { item } = this.props;
 
